@@ -1,0 +1,31 @@
+Definicion
+-Git push  sube el contenido de un repositorio local a un repositorio central
+-Git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
+-Git branch crea una nueva rama. Sin argumentos muestra la lista de ramas del repositorio
+-Git checkout crea una nueva rama en base de la rama actual
+-Git fork  una copia del repositorio donde puedes escribir, haciendo públicos tus propios cambios, como una manera abierta de participación.
+-Git merge se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa.
+-QA  consiste en asegurar que el producto final sea de calidad, es decir, que satisfaga las necesidades del cliente y que no tenga ningún error
+-Testing o pruebas  es un método para verificar si al diseñar un producto digital este cumple con los requisitos esperados y se encuentra libre de errores y brechas
+-Debugging o Depuración el proceso de encontrar y solucionar errores en el código fuente de cualquier software
+-Metodologías de proyectos es un conjunto de pasos y herramientas que ayudan a planificar, ejecutar y controlar un proyecto
+-Metodología en cascada es un enfoque de la gestión de proyectos que sigue un proceso lineal y secuencial. 
+-Metodologías ágiles implica dividir el proyecto en fases y hace hincapié en la colaboración y la mejora continuas
+-Iteración es el proceso coordinado de repetir una serie de pasos o tareas con el objetivo de mejorar un producto, servicio o proyecto a lo largo del tiempo.
+A mi entender
+-Git push envia nuestro trabao a la nube
+-Git pull se usa para bajar de la nube algun trabajo o repositorio
+-Git branch crea una nueva rama
+-Git checkout crea un nueva rama pero basada en la rama actual
+-Git fork Crea una copia del repositorio donde se puede trabajar.
+-Git merge fusiona las ramas que se desee
+-QA se trata de un asegurador de calidad que verifica que no haya errores y todo este realizado correctamente
+-Testing o pruebas se realizan para asegurar que no haya errores y el producto satisfaga al cliente
+-Debugging o Depuracion cuando el software no funciona como se lo espera, los programadores estudian el codigo para deducir que es lo que falla
+-Metodologías de proyectos son los pasos a seguir para la elaboración de un proyecto
+-Metodología en cascada es una metodologia que tiene un orden secuencial en el que cada etapa necesita que la anterior termine para iniciar
+-Metodologías ágiles se trata dee trabajar el proyecto por partes y colaborar con el equipo para el desarrollo mas rapido
+-Iteración repetición de un fragmento de codigo con el objetivo de mejorarlo
+
+
+
